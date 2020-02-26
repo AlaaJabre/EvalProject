@@ -1,0 +1,5 @@
+C:\Users\Kinex01\source\repos\EvalProject\Test2\bin\Debug\Test2.exe.config
+C:\Users\Kinex01\source\repos\EvalProject\Test2\bin\Debug\Test2.exe
+C:\Users\Kinex01\source\repos\EvalProject\Test2\bin\Debug\Test2.pdb
+C:\Users\Kinex01\source\repos\EvalProject\Test2\obj\Debug\Test2.exe
+C:\Users\Kinex01\source\repos\EvalProject\Test2\obj\Debug\Test2.pdb

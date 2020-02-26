@@ -1,0 +1,2 @@
+Import Type1 can use default and non-default export, so answer 1,2,4,5 are correct
+Import Type2 can only use the default implementation so only answer 2,4

@@ -1,0 +1,6 @@
+C:\Users\Kinex01\source\repos\EvalProject\Test5\bin\Debug\Test5.exe.config
+C:\Users\Kinex01\source\repos\EvalProject\Test5\bin\Debug\Test5.exe
+C:\Users\Kinex01\source\repos\EvalProject\Test5\bin\Debug\Test5.pdb
+C:\Users\Kinex01\source\repos\EvalProject\Test5\obj\Debug\Test5.exe
+C:\Users\Kinex01\source\repos\EvalProject\Test5\obj\Debug\Test5.pdb
+C:\Users\Kinex01\source\repos\EvalProject\Test5\obj\Debug\Test5.csprojAssemblyReference.cache
